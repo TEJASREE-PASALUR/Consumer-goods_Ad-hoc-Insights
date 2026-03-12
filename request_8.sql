@@ -1,0 +1,2 @@
+SELECT ceil(ROUND(MONTH(date)/3,1)) as Qtr,ROUND(SUM(sold_quantity)/1000000,2) as sold_qty FROM gdb023.fact_sales_monthly
+WHERE fiscal_year=2020 group by ceil(ROUND(MONTH(date)/3,1)) order by ceil(ROUND(MONTH(date)/3,1)) 
