@@ -34,14 +34,23 @@ These tables follow a **Star Schema commonly used in analytics databases**.
 # 🔎 Key Business Requests Solved
 
 ✔ List of markets in which customer "Atliq Exclusive" operates its business in the APAC region
+
 ✔ Percentage of unique product increase in 2021 vs. 2020
+
 ✔ The unique product counts for each segment and sort them in descending order of product counts
+
 ✔ The segment that had the most increase in unique products in 2021 vs 2020
+
 ✔ The products that have the highest and lowest manufacturing costs
+
 ✔ The top 5 customers who received an average high pre_invoice_discount_pct for the fiscal year 2021 and in the Indian market
+
 ✔ The Gross sales amount for the customer “Atliq Exclusive” for each month
+
 ✔ In which quarter of 2020, got the maximum total_sold_quantity.
+
 ✔ The channel that helped to bring more gross sales in the fiscal year 2021 and the percentage of contribution
+
 ✔ The Top 3 products in each division that have a high total_sold_quantity in the fiscal_year 2021
 
 Each request was solved using **optimized SQL queries and analytical logic**.
